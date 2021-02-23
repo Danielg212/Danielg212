@@ -9,3 +9,6 @@
 ### Technologies I use:
 - 🌱 I’m currently learning React
 - 👯 I’m contributing to amazing [open source project](https://github.com/mini-services)
+
+
+> <img src='https://github.com/danielg212/danielg212/blob/main/icons/javascript.svg' alt='JavaScript' width='50' /><img src='https://github.com/danielg212/danielg212/blob/main/icons/vue.svg' alt='vue.io' width='50' /><img src='https://github.com/danielg212/danielg212/blob/main/icons/nodejs.svg' alt='Node.js' width='50' /> <img src='https://github.com/danielg212/danielg212/blob/main/icons/express.svg' alt='Express' width='50' /> <img src='https://github.com/danielg212/danielg212/blob/main/icons/mongodb.svg' alt='MongoDB' width='50' /> <img src='https://github.com/danielg212/danielg212/blob/main/icons/sass.svg' alt='sass' width='50' /> <img src='https://github.com/danielg212/danielg212/blob/main/icons/spring-boot.svg' alt='spring-boot' width='50' /> <img src='https://github.com/danielg212/danielg212/blob/main/icons/github.svg' alt='GitHub' width='50' />

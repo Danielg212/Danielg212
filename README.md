@@ -3,6 +3,7 @@
 #### I'm a Frontend / Fullstack Developer
 - 🌱 I’m currently working on MEVN Stack application
 - 💬 Ask me about <b>Vue.js</b>
+- 🍃 Expirenced with Java (Spring/Hibernate/Jetty) development
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/daniel-giat)
 
 ### Technologies I use:

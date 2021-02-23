@@ -1,14 +1,15 @@
 ## Hi there 👋 I'm Daniel 🚀
 
-#### I'm a Frontend / Fullstack Developer
+### I'm a Frontend / Fullstack Developer
 - 🦄 I’m currently working on MEVN Stack application
 - 💬 Ask me about <b>Vue.js</b>
 - 🍃 Experienced with Java (Spring/Hibernate/Jetty) backend development
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/daniel-giat)
 
-### Technologies I use:
+#### About me:
 - 🌱 I’m currently learning React
 - 👯 I’m contributing to amazing [open source project](https://github.com/mini-services)
+- 🔥 I'm always striving to learn cutting edge technolegies 
 
 
 > <img src='https://github.com/danielg212/danielg212/blob/main/icons/javascript.svg' alt='JavaScript' width='50' /><img src='https://github.com/danielg212/danielg212/blob/main/icons/vue.svg' alt='vue.io' width='50' /><img src='https://github.com/danielg212/danielg212/blob/main/icons/nodejs.svg' alt='Node.js' width='50' /> <img src='https://github.com/danielg212/danielg212/blob/main/icons/express.svg' alt='Express' width='50' /> <img src='https://github.com/danielg212/danielg212/blob/main/icons/mongodb.svg' alt='MongoDB' width='50' /> <img src='https://github.com/danielg212/danielg212/blob/main/icons/sass.svg' alt='sass' width='50' /> <img src='https://github.com/danielg212/danielg212/blob/main/icons/spring-boot.svg' alt='spring-boot' width='50' /> <img src='https://github.com/danielg212/danielg212/blob/main/icons/github.svg' alt='GitHub' width='50' />

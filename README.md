@@ -7,7 +7,7 @@
 - 🦄 I’m currently working on MEVN Stack application
 - 💬 Ask me about <b>Vue.js</b>
 - 🍃 Experienced with Java (Spring/Hibernate/Jetty) backend development
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/daniel-giat)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-giat/)
 
 #### About me:
 - 🌱 I’m currently learning React

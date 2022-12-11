@@ -1,6 +1,10 @@
+<img src='https://github.com/Danielg212/Danielg212/blob/main/Coder_Blaster.png' alt='logo'/>
+
+
 ## Hi there 👋 I'm Daniel 🚀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielg212&show_icons=true&theme=tokyonight)
+
 
 
 ### I'm a Frontend / Fullstack Developer

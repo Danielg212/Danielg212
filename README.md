@@ -9,12 +9,13 @@
 
 ### I'm a Frontend / Fullstack Developer
 - 🦄 I’m currently working on MEVN Stack application
-- 💬 Ask me about <b>Vue.js</b>
+- 💬 Ask me about <b>Vue.js</b> <b>React.js</b>
+- 🍃 Experienced with Node (Express/Nest) backend development
 - 🍃 Experienced with Java (Spring/Hibernate/Jetty) backend development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-giat/)
 
 #### About me:
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Vite
 - 👯 I’m contributing to amazing [open source project](https://github.com/mini-services)
 - 🔥 I'm always striving to learn cutting edge technolegies 
 

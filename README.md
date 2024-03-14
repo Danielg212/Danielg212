@@ -1,4 +1,3 @@
-<img src='https://github.com/Danielg212/Danielg212/blob/main/Coder_Blaster.png' alt='logo'/>
 
 
 ## Hi there 👋 I'm Daniel 🚀

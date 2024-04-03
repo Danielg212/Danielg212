@@ -14,7 +14,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-giat/)
 
 #### About me:
-- 🌱 I’m currently learning Vite
+- 🌱 I’m currently learning Generative AI - Google Vertex-AI
 - 👯 I’m contributing to amazing [open source project](https://github.com/mini-services)
 - 🔥 I'm always striving to learn cutting edge technolegies 
 
